@@ -3,11 +3,11 @@ Repositorio de control de versiones para el laboratorio de la materia de Computa
 <table width="100%">
   <tr>
     <td align="left" width="20%">
-      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="200">
+      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="300">
     </td>
-    <td width="60%"></td>
+    <td width="80%"></td>
     <td align="right" width="20%">
-      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="200">
+      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="300">
     </td>
   </tr>
 </table>
