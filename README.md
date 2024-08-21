@@ -4,7 +4,7 @@ Repositorio de control de versiones para el laboratorio de la materia de Computa
   <img src="[https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="UNAM Logo" width="100"/>
 </p>
 <p align="right">
-  <img src="[https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudo_fi_color.png" alt="UNAM Logo" width="100"/>
+  <img src="[https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="UNAM Logo" width="100"/>
 </p>
 
 <p align="center">
