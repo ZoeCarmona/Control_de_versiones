@@ -1,7 +1,7 @@
 # Control_de_versiones
 Repositorio de control de versiones para el laboratorio de la materia de Computación Gráfica e Interacción Humano-Computadora del grupo 11
 <p align="left">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/ca/Escudo-UNAM-escalable.svg" alt="UNAM Logo" width="100"/>
+  <img src="[https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="UNAM Logo" width="100"/>
 </p>
 <p align="right">
   <img src="[https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudo_fi_color.png" alt="UNAM Logo" width="100"/>
