@@ -2,12 +2,12 @@
 Repositorio de control de versiones para el laboratorio de la materia de Computación Gráfica e Interacción Humano-Computadora del grupo 11
 <table width="100%">
   <tr>
-    <td align="left" width="33%">
-      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="100">
+    <td align="left" width="25%">
+      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="150">
     </td>
-    <td width="34%"></td>
-    <td align="right" width="33%">
-      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="100">
+    <td width="50%"></td>
+    <td align="right" width="25%">
+      <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="150">
     </td>
   </tr>
 </table>
