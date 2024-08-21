@@ -6,7 +6,7 @@ Repositorio de control de versiones para el laboratorio de la materia de Computa
     <td align="left" width="20%">
       <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="300">
     </td>
-    <td width="65%"></td>
+    <td width="60%"></td>
     <td align="right" width="20%">
       <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="300">
     </td>
