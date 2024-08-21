@@ -1,18 +1,18 @@
 # Control de versiones
 Repositorio de control de versiones para el laboratorio de la materia de Computación Gráfica e Interacción Humano-Computadora del grupo 11
-<p align="center">
+
   <table width="100%">
   <tr>
     <td align="left" width="20%">
       <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_unam.png" alt="Escudo UNAM" width="300">
     </td>
-    <td width="60%"></td>
+    <td width="65%"></td>
     <td align="right" width="20%">
       <img src="https://github.com/ZoeCarmona/Control_de_versiones/blob/main/logo_fi.png" alt="Escudo FI" width="300">
     </td>
   </tr>
 </table>
-</p>
+
 
 <p align="center">
   <br>
