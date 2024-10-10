@@ -1,0 +1,78 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 09.10.2024 23:11:11
+
+newmtl moto_simple_1_exhaust
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\black meatl.jpg
+	map_Kd C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\black meatl.jpg
+
+newmtl moto_simple_1_Rear_light_Cylinder_025_mso
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\metal.jpg
+	map_Kd C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\metal.jpg
+
+newmtl moto_simple_1_plane
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\tanktex.jpg
+	map_Kd C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\tanktex.jpg
+
+newmtl wire_229166215
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8980 0.6510 0.8431
+	Kd 0.8980 0.6510 0.8431
+	Ks 0.3500 0.3500 0.3500
+
+newmtl moto_simple_1_engine
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\Kumas-009.jpeg
+	map_Kd C:\Users\Zoe\Desktop\777\LAB COMPU GRAF\Archivos prácticas\P08-319018129\P08-319018129\Textures\Kumas-009.jpeg
+
+newmtl wire_134006006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5255 0.0235 0.0235
+	Kd 0.5255 0.0235 0.0235
+	Ks 0.3500 0.3500 0.3500
